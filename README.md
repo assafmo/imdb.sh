@@ -15,3 +15,7 @@ imdb "$title"
 $ imdb "the flash"
 tt3107288
 ```
+## With [wizdom.sh](https://github.com/assafmo/wizdom.sh)
+```bash
+$ wizdom $(imdb "game of thrones") s05
+```
